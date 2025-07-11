@@ -1,6 +1,6 @@
 {
-	"name": "@formio/react",
-	"version": "7.0.0-rc.1",
+	"name": "@ghzcool/formio-react",
+	"version": "0.0.0",
 	"description": "React renderer for form.io forms.",
 	"main": "lib/index.js",
 	"scripts": {
@@ -12,7 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/formio/react.git"
+		"url": "git+https://github.com/ghzcool/formio-react.git"
 	},
 	"keywords": [
 		"React",
@@ -21,12 +21,12 @@
 		"Forms",
 		"react-component"
 	],
-	"author": "Randall Knutson <randall@form.io>",
+	"author": "pavel Pirogov",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/formio/react/issues"
+		"url": "https://github.com/ghzcool/formio-react/issues"
 	},
-	"homepage": "https://github.com/formio/react#readme",
+	"homepage": "https://github.com/ghzcool/formio-react#readme",
 	"dependencies": {
 		"@ungap/structured-clone": "^1.2.0",
 		"core-js": "^3.35.1",
