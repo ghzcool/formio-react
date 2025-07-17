@@ -1,4 +1,4 @@
-import { Components } from '@formio/js';
+import { Components } from '@ppirogov/formio-js';
 import _get from 'lodash/get';
 
 export const getComponentDefaultColumn = (component) => ({

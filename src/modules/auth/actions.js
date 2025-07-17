@@ -1,4 +1,4 @@
-import { Formio as formiojs } from '@formio/js';
+import { Formio as formiojs } from '@ppirogov/formio-js';
 import * as type from './constants';
 
 const requestUser = () => ({

@@ -1,5 +1,10 @@
 import { CSSProperties, useEffect, useRef, useState } from 'react';
-import { EventEmitter, Form as FormClass, Webform, Utils } from '@formio/js';
+import {
+	EventEmitter,
+	Form as FormClass,
+	Webform,
+	Utils,
+} from '@ppirogov/formio-js';
 import { Component, Form as CoreFormType } from '@formio/core';
 import structuredClone from '@ungap/structured-clone';
 
@@ -15,7 +20,7 @@ export type JSON =
 	| JSON[]
 	| { [key: string]: JSON };
 
-// TODO: once events is typed correctly in @formio/js options, we can remove this override
+// TODO: once events is typed correctly in @ppirogov/formio-js options, we can remove this override
 // TODO: `currentForm` is an option that will be deprecated once we update the Action settings form on the server
 export type FormOptions = FormClass['options'] & {
 	events?: EventEmitter;

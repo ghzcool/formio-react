@@ -1,4 +1,4 @@
-import { Formio } from '@formio/js';
+import { Formio } from '@ppirogov/formio-js';
 const Field = Formio.Components.components.field;
 
 export default class ReactComponent extends Field {

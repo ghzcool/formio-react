@@ -1,4 +1,4 @@
-import { Formio as Formiojs } from '@formio/js';
+import { Formio as Formiojs } from '@ppirogov/formio-js';
 
 import { selectRoot } from '../root';
 
