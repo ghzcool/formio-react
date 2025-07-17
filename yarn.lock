@@ -770,10 +770,10 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.8.tgz#6b79032e760a0899cd4204710beede972a3a185f"
   integrity sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==
 
-"@ppirogov/formio-js@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@ppirogov/formio-js/-/formio-js-0.0.12.tgz#c98736d14f901e947b2fea5ed6a6b7adaa54656b"
-  integrity sha512-TYuDmTqc0tKM8lkYOVAmbRH8T4w093CnyNdcJDsbr0Up8aFDHCslIyqid1CdGeYJKuhnGw73APh0MTwbBnCgqg==
+"@ppirogov/formio-js@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@ppirogov/formio-js/-/formio-js-0.0.13.tgz#9ed06882472d58c3910928f33f432a4a89cf70e0"
+  integrity sha512-ylZIyKAYeoyX+RCPHjjUed8FwgXhvDtccoW/KXb9cOIw7T+N+37bUPhZAklupX4IeT8tEUTj6hwikeWS0o4biQ==
   dependencies:
     "@formio/bootstrap" v3.0.0-dev.121.085d187
     "@formio/core" "2.4.0-dev.267.2866472"

@@ -1,6 +1,6 @@
 {
 	"name": "@ppirogov/formio-react",
-	"version": "0.0.12",
+	"version": "0.0.13",
 	"description": "React renderer for form.io forms.",
 	"main": "lib/index.js",
 	"scripts": {
@@ -36,7 +36,7 @@
 	"devDependencies": {
 		"@formio/core": "^2.4.0",
 		"@formio/js": "^5.1.1",
-		"@ppirogov/formio-js": "0.0.12",
+		"@ppirogov/formio-js": "0.0.13",
 		"@testing-library/dom": "^10.4.0",
 		"@testing-library/jest-dom": "^6.6.2",
 		"@testing-library/react": "^16.1.1",
